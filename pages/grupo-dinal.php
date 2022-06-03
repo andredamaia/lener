@@ -1,6 +1,17 @@
 <div class="grupo-dinal">
 
-    <div class="dinal-right-side"></div>
+    <div class="dinal-right-side">
+        <div class="number-empreendimentos">
+            <span>78 empreendimentos</span>
+
+            <span>2100 clientes</span>
+
+            <span>18 vendedores</span>
+
+            <span>+ 20 anos</span>
+
+        </div>
+    </div>
 
     <div class="bg-grupo-dinal">
         <img src="<?php echo $pageurl; ?>/public/images/bg-dinal.jpg" class="bg-dinal" alt="">
