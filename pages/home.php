@@ -1,11 +1,11 @@
 <div class="banner-principal">
     <div class="sidebar left-side">
         <div class="up-side">
-            <a href="#">(41) 9 9104-2468</a>
+            <a href="https://api.whatsapp.com/send?phone=5541991042468">(41) 9 9104-2468</a>
 
             <span class="point"></span>
 
-            <a href="#">(41) 9 8777-8704</a>
+            <a href="https://api.whatsapp.com/send?phone=5541987778704">(41) 9 8777-8704</a>
 
             <svg style="margin-left: 1.5rem;" width="19.994" height="19.994" viewBox="0 0 19.994 19.994">
                 <g id="phone-call_3_" data-name="phone-call (3)" transform="translate(10.007 0.003) rotate(45)">
@@ -100,15 +100,15 @@
 
     <div class="sidebar right-side">
         <div class="up-side">
-            <a href="#">
+            <a href="https://www.instagram.com/lenerconstrutorabrasil/" target="_blank">
                 <img src="<?php echo $pageurl; ?>/public/images/instagram-sidebar.png" alt="">
             </a>
 
-            <a href="#">
+            <a href="https://www.facebook.com/LENERBRASIL/" target="_blank">
                 <img src="<?php echo $pageurl; ?>/public/images/facebook-sidebar.png" alt="">
             </a>
 
-            <a href="#">
+            <a href="https://api.whatsapp.com/send?phone=5541991042468">
                 <img src="<?php echo $pageurl; ?>/public/images/whatsapp-sidebar.png" alt="">
             </a>
         </div>
@@ -121,7 +121,9 @@
                 <path id="Caminho_28689" data-name="Caminho 28689" d="M6.07,16.6A6.207,6.207,0,0,1,0,10.278a6.44,6.44,0,0,1,1.211-3.79L5.7.2c.011-.015.028-.021.041-.035A.441.441,0,0,1,6.443.2C7.735,1.991,10.1,5.343,11.012,6.608v0l.006.008a6.458,6.458,0,0,1,1.121,3.661A6.207,6.207,0,0,1,6.07,16.6Zm0-9.733A3.353,3.353,0,0,0,2.8,10.278,3.353,3.353,0,0,0,6.07,13.689a3.353,3.353,0,0,0,3.274-3.411A3.353,3.353,0,0,0,6.07,6.867Z" fill="#fff"/>
             </svg>
 
-            <p>Rua Waldir Muller 99, Bairro Centro, Matinhos, PR</p>
+            <a href="https://goo.gl/maps/8hCUixDy22XpSgZY6" target="_blank">
+                <p>Rua Waldir Muller 99, Bairro Centro, Matinhos, PR</p>
+            </a>
         </div>
     </div>
 </div>

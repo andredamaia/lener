@@ -97,4 +97,14 @@
     .menu-desktop ul span::before {
         background: var(--color-dark);
     }
+
+    header.active {
+        .menu-desktop ul li a {
+            color: var(--color-light);
+        }
+    
+        .menu-desktop ul span::before {
+            background: var(--color-light);
+        } 
+    }
 }
