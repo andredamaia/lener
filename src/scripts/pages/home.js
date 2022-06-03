@@ -1,4 +1,4 @@
-import Swiper, { Navigation, Scrollbar } from 'swiper';
+import Swiper, { Navigation, Scrollbar, Pagination } from 'swiper';
 import gsap from 'gsap'
 import $ from 'jquery'
 
@@ -6,7 +6,7 @@ import Scroll from '../utils/scroll'
 
 const pageurl = document.querySelector('body').id
 
-Swiper.use([Navigation , Scrollbar]);
+Swiper.use([Navigation , Scrollbar , Pagination]);
 
 if(pageurl == 'home'){
   const scroll = new Scroll()
@@ -19,6 +19,22 @@ if(pageurl == 'home'){
     }
   })
 
+  // const changeNumber = document.querySelectorAll('[data-button]')
+
+  // esconderNumero = () {
+  //   const numeros = querySelectorAll('data-number')
+
+  //   numeros.forEach
+  // }
+
+  // changeNumber.forEach(button => button.addEventListener('click', () => {
+  //   const valor = button.dataSet.button
+
+
+  // }))
+
+
+
   const swiperBanner = new Swiper('.swiper-banner', {
     slidesPerView: 1,
 
@@ -27,9 +43,15 @@ if(pageurl == 'home'){
       prevEl: '.swiper-button-prev',
     },
 
+    pagination: {
+      el: '.swiper-pagination',
+      type: "fraction"
+    },
+
     scrollbar: {
       el: '.swiper-scrollbar',
       draggable: true,
+      
     },
 
     breakpoints: {

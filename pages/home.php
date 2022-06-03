@@ -33,7 +33,7 @@
         <div class="swiper swiper-banner">
 
             <div class="swiper-wrapper">
-                <div class="swiper-slide">
+                <div class="swiper-slide" data-slide="01">
                     <img src="<?php echo $pageurl; ?>/public/images/bg-banner-1.jpg" alt="">
 
                     <div class="swiper-infos">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 
-                <div class="swiper-slide">
+                <div class="swiper-slide" data-slide="02">
                     <img src="<?php echo $pageurl; ?>/public/images/bg-banner-2.jpg" alt="">
 
                     <div class="swiper-infos">
@@ -64,7 +64,7 @@
                     </div>
                 </div>
 
-                <div class="swiper-slide">
+                <div class="swiper-slide" data-slide="03">
                     <img src="<?php echo $pageurl; ?>/public/images/bg-banner-3.jpg" alt="">
 
                     <div class="swiper-infos">
@@ -80,19 +80,17 @@
             </div>
 
             <div class="swiper-arrows">
-                <div class="swiper-button-prev"></div>
-                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev" data-button=""></div>
+                <div class="swiper-button-next" data-button=""></div>
             </div>
 
             <div class="swiper-barra">
                 <div class="swiper-scrollbar"></div>
 
                 <div class="contador">
-                    <span class="swiper-number-slide">01</span>
 
-                    <span>/</span>
-
-                    <span>03</span>
+                    <div class="swiper-pagination"></div>
+                    
                 </div>
             </div>
         </div>

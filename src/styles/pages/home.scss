@@ -702,21 +702,37 @@
     }
 
     .contador {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
+        // display: flex;
+        // flex-direction: row;
+        // align-items: center;
 
-        span {
-            display: inline-block;
+        // span {
+        //     display: inline-block;
+        //     font-size: 1.6rem;
+        //     color: var(--color-light);
+        //     opacity: 1;
+        //     letter-spacing: 3px;
+        //     margin-right: 7px;
+
+        //     &:last-child {
+        //         margin-right: 0;
+        //     }
+        // }
+
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 120px;
+        height: 100%;
+
+        .swiper-pagination-fraction {
+            bottom: 15px;
+            left: -15px;
+            width: 100%;
             font-size: 1.6rem;
             color: var(--color-light);
             opacity: 1;
             letter-spacing: 3px;
-            margin-right: 7px;
-
-            &:last-child {
-                margin-right: 0;
-            }
         }
     }
 }
