@@ -1,0 +1,100 @@
+.sobre-lener {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 7rem;
+    padding-bottom: 18rem;
+    position: relative;
+    background: #fbfbfb;
+
+    @media(max-width: 820px) {
+        grid-template-columns: 1fr;
+        padding-bottom: 5rem;
+    }
+
+    &::after {
+        position: absolute;
+        content: '';
+        width: 90%;
+        height: 1px;
+        background: #CC9B55;
+        bottom: 9rem;
+        left: 10rem;
+
+        @media(max-width: 820px) {
+            width: 90%;
+            bottom: 4.5rem;
+            left: 2rem;
+        }
+    }
+
+    .banner-sobre-left {
+        padding: 16rem 0 5rem;
+        background: var(--color-tree-poppy);
+        position: relative;
+
+        @media(max-width: 820px) {
+            padding: 10rem 0 3rem;
+        }
+
+        img {
+            width: 110%;
+            height: 100%;
+        }
+
+        .vinte-anos {
+            position: absolute;
+            top: 40px;
+            right: -55px;
+            width: auto;
+            height: auto;
+        }
+
+        .selo {
+            position: absolute;
+            bottom: 2rem;
+            left: 11rem;
+            width: auto;
+            height: auto;
+        }
+    }
+
+    .banner-sobre-right {
+        padding: 16rem 10rem 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        @media(max-width: 820px) {
+            padding: 3rem 2rem;
+        }
+
+        p {
+            font-size: 1.8rem;
+            line-height: 2.7rem;
+            color: var(--color-dark);
+            font-weight: 400;
+            margin-bottom: 3rem;
+
+            @media(max-width: 820px) {
+                font-size: 1.5rem;
+                line-height: 2.3rem;
+                margin-bottom: 1.5rem;
+            }
+
+            strong {
+                font-weight: 700;
+            }
+        }
+    }
+}
+
+#sobre-a-lener {
+    .menu-desktop ul li a {
+        color: var(--color-dark);
+    }
+
+    .menu-desktop ul span::before {
+        background: var(--color-dark);
+    }
+}

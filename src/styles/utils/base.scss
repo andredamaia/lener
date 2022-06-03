@@ -1,5 +1,7 @@
 @import 'https://unpkg.com/swiper/swiper-bundle.css';
-@import 'https://fonts.googleapis.com/css2?family=Poppins&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;900&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap';
 
 *,
 *:after,
@@ -7,30 +9,35 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    user-select: none;
     outline: 0;
 }
 
 :root {
     --color-light: #ffffff;
     --color-dark: #111111;
+    --color-tree-poppy: #F8991A;
+    --color-shark: #1C1E25;
+    --color-concrete: #f2f2f2;
+    --color-alabaster: #f7f7f7;
+    --color-silver-chalice: #a9a9a9;
+    --color-gray: #8c8c8c;
 
-    --title-32: 3.2rem;
 
-    --text-16: 1.6rem;
+    --text-20: 2rem;
 
-    --font-poppins: 'Poppins', sans-serif;
+    --font-heebo: 'Heebo', sans-serif;
 }
 
 
 html { 
     font-size: 62.5%; 
+    // scroll-behavior: smooth;
 }
 
 body { 
-    font-family: var(--font-poppins); 
-    font-size: var(--text-16); 
-    background: var(--color-dark);
+    font-family: var(--font-heebo); 
+    font-size: var(--text-20); 
+    background: var(--color-light);
 }
 
 input, textarea { 
@@ -58,11 +65,15 @@ a {
 }
 
 .container {
-    max-width: 1480px;
-    width: 90%;
+    padding: 0 10rem;
+    width: 100%;
 
-    @media(max-width: 768px) {
-        width: 100%;
+    @media(min-width: 992px) and (max-width: 1300px) {
+        padding: 0 5rem;
+    }
+
+    @media(max-width: 820px) {
+        padding: 0;
     }
 }
 
