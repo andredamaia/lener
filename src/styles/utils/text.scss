@@ -25,6 +25,16 @@ h2 {
         font-weight: 700;
     }
 
+    @media(min-width: 1401px) and (max-width: 1600px) {
+        font-size: 7.5rem;
+        line-height: 8rem;
+    }
+
+    @media(min-width: 1301px) and (max-width: 1400px) {
+        font-size: 6.5rem;
+        line-height: 7rem;
+    }
+
     @media(min-width: 992px) and (max-width: 1300px) {
         font-size: 6rem;
         line-height: 6.5rem;

@@ -20,3 +20,7 @@
         <p>Nosso objetivo é projetar e construir sonhos, de forma sustentável e com profissionais qualificados e motivados a entregar sempre o melhor.</p>
     </div>
 </div>
+
+<div class="orange-line-after">
+    <span></span>
+</div>

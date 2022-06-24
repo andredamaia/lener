@@ -13,6 +13,27 @@ if(page.id == 'sobre-a-lener'){
         } else {
             $('header').removeClass('active')
         }
-      })
+    })
+
+    const contato = $('#contato').offset().top - 100
+
+    $('.button-contato').on('click', function(){
+      $("body, html").animate({
+        scrollTop : contato
+      }, 1200);
+  
+      return false
+    })
+
+//     const buildings = $('#empreendimentos').offset().top - 100
+
+//   $('.button-buildings').on('click', function(){
+//     $("body, html").animate({
+//       scrollTop : buildings
+//     }, 1200);
+
+//     return false
+//   })
+      
 }
 

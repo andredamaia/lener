@@ -1,4 +1,4 @@
-import Swiper, { Navigation, Scrollbar, Pagination } from 'swiper';
+import Swiper, { Navigation, Scrollbar, Pagination, Autoplay } from 'swiper';
 import gsap from 'gsap'
 import $ from 'jquery'
 
@@ -6,7 +6,7 @@ import Scroll from '../utils/scroll'
 
 const pageurl = document.querySelector('body').id
 
-Swiper.use([Navigation , Scrollbar , Pagination]);
+Swiper.use([Navigation , Scrollbar , Pagination , Autoplay]);
 
 if(pageurl == 'home'){
   const scroll = new Scroll()
@@ -37,6 +37,9 @@ if(pageurl == 'home'){
 
   const swiperBanner = new Swiper('.swiper-banner', {
     slidesPerView: 1,
+    autoplay: {
+      delay: 6000,
+    },
 
     navigation: {
       nextEl: '.swiper-button-next',
@@ -51,7 +54,6 @@ if(pageurl == 'home'){
     scrollbar: {
       el: '.swiper-scrollbar',
       draggable: true,
-      
     },
 
     breakpoints: {
@@ -67,6 +69,50 @@ if(pageurl == 'home'){
         },
     },
 
+  })
+
+  const swiperNiceImoveis = new Swiper('.swiper-nice-imoveis', {
+    slidesPerView: 1,
+    spaceBetween: 20,
+    loop: true,
+    autoplay: {
+      delay: 3000,
+    },
+
+    breakpoints: {
+        // when window width is >= 320px
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 5
+        },
+
+        1200: {
+          slidesPerView: 1,
+          spaceBetween: 20
+        },
+    }
+  })
+
+  const swiperMarselhaImoveis = new Swiper('.swiper-marselha-imoveis', {
+    slidesPerView: 1,
+    spaceBetween: 20,
+    loop: true,
+    autoplay: {
+      delay: 3000,
+    },
+
+    breakpoints: {
+        // when window width is >= 320px
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 5
+        },
+
+        1200: {
+          slidesPerView: 1,
+          spaceBetween: 20
+        },
+    }
   })
     
 
@@ -158,5 +204,25 @@ if(pageurl == 'home'){
           spaceBetween: 20
         },
     }
+  })
+
+  const contato = $('#contato').offset().top - 100
+
+  $('.button-contato').on('click', function(){
+    $("body, html").animate({
+      scrollTop : contato
+    }, 1200);
+
+    return false
+  })
+
+  const buildings = $('#empreendimentos').offset().top - 100
+
+  $('.button-buildings').on('click', function(){
+    $("body, html").animate({
+      scrollTop : buildings
+    }, 1200);
+
+    return false
   })
 }
