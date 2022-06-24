@@ -252,45 +252,37 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-2.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-2.jpg"alt="">
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-3.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-3.jpg"alt=""> 
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-4.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-4.jpg"alt=""> 
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-5.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-5.jpg"alt=""> 
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-6.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-6.jpg"alt=""> 
                     </div>
                 </div>
+            </div>
+
+            <div class="button-saiba-mais" style="margin-bottom: 9rem; background: transparent;">
+                <span></span>
+
+                <a href="https://grupodinal.com/project/edificio-punta-de-arena-iii/" target="_blank">
+                    Saiba mais
+
+                    <svg id="Grupo_20428" data-name="Grupo 20428" width="9.047" height="15.356" viewBox="0 0 9.047 15.356">
+                        <path id="Caminho_28675" data-name="Caminho 28675" d="M110.279,7.079,103.426.245a.846.846,0,0,0-1.191,0l-.5.5a.84.84,0,0,0,0,1.188l5.755,5.738-5.761,5.745a.84.84,0,0,0,0,1.188l.5.5a.846.846,0,0,0,1.191,0l6.859-6.84a.846.846,0,0,0,0-1.192Z" transform="translate(-101.478)" fill="#fff"/>
+                    </svg>
+                </a>
             </div>
 
             <div class="swiper empreendimentos-argentina-second">
@@ -303,63 +295,47 @@
                         </a>
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iv/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-8.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iv.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-8.jpg"alt="">                                                    
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iv/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-9.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iv.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-9.jpg"alt="">                                                    
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iv/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-10.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iv.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-10.jpg"alt="">                                                    
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iv/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-11.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iv.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-11.jpg"alt="">                                                    
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iv/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-12.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iv.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-12.jpg"alt="">                                                    
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iv/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-13.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iv.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-13.jpg"alt="">                                                    
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-iv/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-14.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-iv.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-14.jpg"alt="">                                                    
                     </div>
                 </div>
             </div> 
+
+            <div class="button-saiba-mais" style="margin-bottom: 9rem; background: transparent;">
+                <span></span>
+
+                <a href="https://grupodinal.com/project/edificio-punta-de-arena-iv/" target="_blank">
+                    Saiba mais
+
+                    <svg id="Grupo_20428" data-name="Grupo 20428" width="9.047" height="15.356" viewBox="0 0 9.047 15.356">
+                        <path id="Caminho_28675" data-name="Caminho 28675" d="M110.279,7.079,103.426.245a.846.846,0,0,0-1.191,0l-.5.5a.84.84,0,0,0,0,1.188l5.755,5.738-5.761,5.745a.84.84,0,0,0,0,1.188l.5.5a.846.846,0,0,0,1.191,0l6.859-6.84a.846.846,0,0,0,0-1.192Z" transform="translate(-101.478)" fill="#fff"/>
+                    </svg>
+                </a>
+            </div>
 
             <div class="swiper empreendimentos-argentina-third">
                 <div class="swiper-wrapper">
@@ -371,39 +347,35 @@
                         </a>
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-v/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-16.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-v.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-16.jpg"alt="">                        
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-v/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-17.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-v.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-17.jpg"alt="">                        
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-v/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-18.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-v.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-18.jpg"alt="">                        
                     </div>
 
-                    <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-v/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-19.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-v.png" class="empreendimentos-logo"alt="">
-                        </a>
+                    <div class="swiper-slide">                        
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-19.jpg"alt="">                        
                     </div>
                 </div>
             </div> 
+
+            <div class="button-saiba-mais" style="margin-bottom: 9rem; background: transparent;">
+                <span></span>
+
+                <a href="https://grupodinal.com/project/edificio-punta-de-arena-v/" target="_blank">
+                    Saiba mais
+
+                    <svg id="Grupo_20428" data-name="Grupo 20428" width="9.047" height="15.356" viewBox="0 0 9.047 15.356">
+                        <path id="Caminho_28675" data-name="Caminho 28675" d="M110.279,7.079,103.426.245a.846.846,0,0,0-1.191,0l-.5.5a.84.84,0,0,0,0,1.188l5.755,5.738-5.761,5.745a.84.84,0,0,0,0,1.188l.5.5a.846.846,0,0,0,1.191,0l6.859-6.84a.846.846,0,0,0,0-1.192Z" transform="translate(-101.478)" fill="#fff"/>
+                    </svg>
+                </a>
+            </div>
 
             <div class="swiper empreendimentos-argentina-fourth">
                 <div class="swiper-wrapper">
@@ -416,38 +388,34 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-viii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-21.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-viii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-21.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-viii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-22.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-viii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-22.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-viii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-23.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-viii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-23.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/edificio-punta-de-arena-viii/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-24.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/punta-viii.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-24.jpg"alt="">
                     </div>
                 </div>
             </div> 
+
+            <div class="button-saiba-mais" style="margin-bottom: 9rem; background: transparent;">
+                <span></span>
+
+                <a href="https://grupodinal.com/project/edificio-punta-de-arena-viii/" target="_blank">
+                    Saiba mais
+
+                    <svg id="Grupo_20428" data-name="Grupo 20428" width="9.047" height="15.356" viewBox="0 0 9.047 15.356">
+                        <path id="Caminho_28675" data-name="Caminho 28675" d="M110.279,7.079,103.426.245a.846.846,0,0,0-1.191,0l-.5.5a.84.84,0,0,0,0,1.188l5.755,5.738-5.761,5.745a.84.84,0,0,0,0,1.188l.5.5a.846.846,0,0,0,1.191,0l6.859-6.84a.846.846,0,0,0,0-1.192Z" transform="translate(-101.478)" fill="#fff"/>
+                    </svg>
+                </a>
+            </div>
 
             <div class="swiper empreendimentos-argentina-fifth">
                 <div class="swiper-wrapper">
@@ -460,75 +428,39 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-26.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-26.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-27.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-27.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-28.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-28.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-29.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-29.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-30.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-30.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-31.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-31.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-32.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-32.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-33.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-33.jpg"alt="">
                     </div>
 
                     <div class="swiper-slide">
-                        <a href="https://grupodinal.com/project/natureza/" target="_blank">
-                            <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-34.jpg"alt="">
-
-                            <img src="<?php echo $pageurl; ?>/public/images/logo-natureza.png" class="empreendimentos-logo"alt="">
-                        </a>
+                        <img src="<?php echo $pageurl; ?>/public/images/empreendimentos-argentina-34.jpg"alt="">
                     </div>
                 </div>
             </div> 
@@ -537,7 +469,7 @@
 
                 <span></span>
 
-                <a href="#">
+                <a href="https://grupodinal.com/project/natureza/" target="_blank">
                     Saiba mais
 
                     <svg id="Grupo_20428" data-name="Grupo 20428" width="9.047" height="15.356" viewBox="0 0 9.047 15.356">
