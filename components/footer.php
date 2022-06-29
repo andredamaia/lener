@@ -75,7 +75,7 @@
                 <span>・</span>
 
                 <div>
-                    <span>Feito com carinho pela Cartola <strong>Sobre Cartola</strong></span>
+                    <span>Feito com carinho pela Cartola <strong><a href="https://dacartola.com.br/" target="_blank">Sobre Cartola</a></strong></span>
                 </div>
             </div>
         </div>

@@ -21,7 +21,7 @@
                 <span></span>
 
                 <li>
-                    <a href="#" class="button-buildings">Empreendimentos</a>
+                    <a href="<?php echo $pageurl; ?>/" class="button-buildings">Empreendimentos</a>
                 </li>
 
                 <span></span>
