@@ -165,6 +165,11 @@
                         <img src="<?php echo $pageurl; ?>/public/images/nice-8.jpg" alt="">
                     </div>
                 </div>
+
+                <div class="swiper-arrows-nice">
+                    <div class="swiper-nice-prev"><svg ><path d="M28.05 36 16 23.95 28.05 11.9l2.15 2.15-9.9 9.9 9.9 9.9Z"/></svg></div>
+                    <div class="swiper-nice-next"><svg ><path d="m18.75 36-2.15-2.15 9.9-9.9-9.9-9.9 2.15-2.15L30.8 23.95Z"/></svg></div>
+                </div>
             </div>
         </div>
 
@@ -216,6 +221,11 @@
                     <div class="swiper-slide">
                         <img src="<?php echo $pageurl; ?>/public/images/marselha-8.jpg" alt="">
                     </div>
+                </div>
+
+                <div class="swiper-arrows-marselha">
+                    <div class="swiper-marselha-prev"><svg><path d="M28.05 36 16 23.95 28.05 11.9l2.15 2.15-9.9 9.9 9.9 9.9Z"/></svg></div>
+                    <div class="swiper-marselha-next"><svg><path d="m18.75 36-2.15-2.15 9.9-9.9-9.9-9.9 2.15-2.15L30.8 23.95Z"/></svg></div>
                 </div>
             </div>
         </div>

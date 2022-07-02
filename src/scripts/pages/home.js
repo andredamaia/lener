@@ -79,6 +79,11 @@ if(pageurl == 'home'){
       delay: 3000,
     },
 
+    navigation: {
+      nextEl: '.swiper-nice-next',
+      prevEl: '.swiper-nice-prev',
+    },
+
     breakpoints: {
         // when window width is >= 320px
         320: {
@@ -99,6 +104,11 @@ if(pageurl == 'home'){
     loop: true,
     autoplay: {
       delay: 3000,
+    },
+
+    navigation: {
+      nextEl: '.swiper-marselha-next',
+      prevEl: '.swiper-marselha-prev',
     },
 
     breakpoints: {
